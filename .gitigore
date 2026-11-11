@@ -1,0 +1,11 @@
+
+# Maven generated files
+target/
+
+# Java compiled files
+*.class
+
+# Eclipse settings
+.settings/
+.classpath
+.project
